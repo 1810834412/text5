@@ -78,6 +78,6 @@ System.out.println("输入你想要查询的字或词");
         }
 ```
 ## 六、	实验结果
-![实验结果截图1](https://github.com/TAP-APIA/-JAVA-/blob/main/992%5D%24ONSMT~32S6%5DYZL92%7BJ.png)
+![实验结果截图1](https://github.com/1810834412/text5/blob/main/%E5%AE%9E%E9%AA%8C5%E7%BB%93%E6%9E%9C%E6%88%AA%E5%9B%BE.png)
 ## 七、	实验体会
 ### 通过了本次的java实验，首先我学会了如何进行文件信息的读写以及如何处理文件信息和利用正则来实现信息的处理查找字词，其次学会创建及使用数组。
